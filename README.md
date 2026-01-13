@@ -135,4 +135,14 @@ end_time = time.time()
 print("Sum =", s)
 print("Time =", end_time - start_time, "seconds")
 print("Memory =", process.memory_info().rss / 1024, "KB")
+ ```
+
+---
+
+## 📚 Lessons
+
+2.Data Types in C (lessons/02_data_types.md)
+3. Operators in C (coming soon...)
+
+
 

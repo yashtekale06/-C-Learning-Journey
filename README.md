@@ -141,8 +141,9 @@ print("Memory =", process.memory_info().rss / 1024, "KB")
 
 ## 📚 Lessons
 
-2.Data Types in C (lessons/02_data_types.md)
-3. Operators in C (coming soon...)
+1. [Why C for Embedded Systems?](lessons/README.md)
+2. [Data Types in C](lessons/data_types_in_c.md)
+
 
 
 

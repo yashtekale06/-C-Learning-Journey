@@ -141,7 +141,7 @@ print("Memory =", process.memory_info().rss / 1024, "KB")
 
 ## 📚 Lessons
 
-1. [📘 Why C for Embedded Systems](why_c_embedded.md)
+1. [📘 Why C for Embedded Systems](README.md)
 2. [📘 Data Types in C](data_types_in_c.md)
 3. [📘 Input & Output](input_output.md)
 
